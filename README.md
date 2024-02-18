@@ -1,3 +1,3 @@
 # Minesweeper game on the terminal!
 
-Built with Java
+Written in Java
